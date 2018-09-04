@@ -12,3 +12,5 @@ Git has a mutable index called stage.
 Git new change.
 
 Git new new change.
+
+Creating a new branch is quick.
