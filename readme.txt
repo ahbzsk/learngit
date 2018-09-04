@@ -10,3 +10,5 @@ Git is free software.
 Git has a mutable index called stage.
 
 Git new change.
+
+Git new new change.
